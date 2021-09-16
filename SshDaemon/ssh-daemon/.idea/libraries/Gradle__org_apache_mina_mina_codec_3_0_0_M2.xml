@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.mina:mina-codec:3.0.0-M2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.mina/mina-codec/3.0.0-M2/b92cd4d86ed46acd94eedaca030b9118086d920a/mina-codec-3.0.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.mina/mina-codec/3.0.0-M2/34de5b5f6c6900333306ca309f28d8ce071cc40/mina-codec-3.0.0-M2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.mina/mina-codec/3.0.0-M2/96d278aaa2b819dc8041c3f0f7da52023e058812/mina-codec-3.0.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

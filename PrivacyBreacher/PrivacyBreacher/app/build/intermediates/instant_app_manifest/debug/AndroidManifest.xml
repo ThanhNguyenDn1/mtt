@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.syuzme.thanh.myappprivacy.privacybreacher"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="30" />
+    <!-- Tell the system this app requires OpenGL ES 2.0. -->
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/iconapp"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/iconapp"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="io.nandandesai.privacybreacher.AboutActivity" />
+        <activity android:name="io.nandandesai.privacybreacher.PhoneInfoActivity" />
+        <activity android:name="io.nandandesai.privacybreacher.PhoneMonitorActivity" />
+        <activity android:name="io.nandandesai.privacybreacher.PhysicalMonitorActivity" />
+
+        <service
+            android:name="io.nandandesai.privacybreacher.PrivacyBreacherService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <receiver
+            android:name="io.nandandesai.privacybreacher.EventReceiver"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name="io.nandandesai.privacybreacher.ShopActivity" />
+        <activity
+            android:name="io.nandandesai.privacybreacher.MainActivity"
+            android:launchMode="singleTop" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.play.billingclient.version"
+            android:value="4.0.0" />
+
+        <activity
+            android:name="com.android.billingclient.api.ProxyBillingActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+    </application>
+
+</manifest>

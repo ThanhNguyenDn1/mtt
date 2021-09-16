@@ -1,0 +1,7 @@
+#Thu Sep 16 15:46:58 ICT 2021
+base.1=D\:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=D\:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

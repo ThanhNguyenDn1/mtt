@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">MyGreentooth</string>
+    <string name="help_1">Greentooth can help you save battery and mitigate the security risks of Bluetooth by
+        automatically turning Bluetooth off when you\'re no longer using it.</string>
+    <string name="help_2">When the last Bluetooth device has disconnected Greentooth will wait for an adjustable amount
+        of time in order to not disturb any connection/reconnection attempts and then deactivate Bluetooth.</string>
+    <string name="help_3">Greentooth can optionally show an unobtrusive notification when Bluetooth is about to be turned off, allowing
+        Bluetooth to be kept on temporarily or Greentooth to be disabled entirely. Please be aware that this feature will not work well if
+        the delay is set to a very low value, as there will not be enough time to show the notification.</string>
+    <string name="help_4">Please note that Greentooth only runs upon device disconnection, it does not do periodical
+        checks for idle Bluetooth.</string>
+    <string name="post_disable_channel_name">Post-disabling notifications</string>
+    <string name="post_disable_channel_description">Notifications sent after Bluetooth is disabled</string>
+    <string name="pre_disable_channel_name">Pre-disabling notifications</string>
+    <string name="pre_disable_channel_description">Notifications sent before Bluetooth is disabled</string>
+    <string name="about_string">\n\nCopyright 2020 by Lutech\n\n
+        </string>
+    <string name="about_menu_title">About</string>
+    <string name="themes_menu">Theme</string>
+    <string name="light_theme">Light</string>
+    <string name="dark_theme">Dark</string>
+    <string name="default_theme">System default</string>
+    <string name="switch_description">Enable Greentooth to automatically turn Bluetooth off when the last device has disconnected.</string>
+    <string name="wait_title">Delay</string>
+    <string name="wait_desc">Minimum delay before Bluetooth is turned off: </string>
+    <string name="pre_disabling_notifications">Notify before disabling</string>
+    <string name="pre_disabling_notifications_desc">Send a silent notification before Bluetooth is turned off, with options to keep
+        Bluetooth on this time or disable Greentooth entirely.</string>
+    <string name="post_disabling_notifications">Notify after disabling</string>
+    <string name="post_disabling_notifications_desc">Send a notification after Bluetooth has been turned off.</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="enabled_desc">Greentooth is enabled and will turn off Bluetooth when it is no longer in use.</string>
+    <string name="disabled_desc">Enable Greentooth to automatically turn Bluetooth off when the last device has disconnected and a small
+        delay has passed.</string>
+    <string name="help">Help</string>
+    <string name="okay">OK</string>
+    <string name="post_disable_notification_title">Bluetooth disabled</string>
+    <string name="post_disable_notification_body">No devices connected.</string>
+    <string name="enable_greentooth">Enable Greentooth</string>
+    <string name="minimum_delay">Minimum delay</string>
+    <string name="enable_notifications">Enable notifications</string>
+    <string name="abort_job_button">Keep Bluetooth on</string>
+    <string name="disable_button">Disable Greentooth</string>
+    <string name="minute">minute</string>
+    <string name="second">second</string>
+    <string name="seconds">seconds</string>
+    <string name="minutes">minutes</string>
+    <string name="seconds_uppercase">Seconds</string>
+    <string name="minutes_uppercase">Minutes</string>
+    <string name="none">None</string>
+    <string name="duration_separator">:</string>
+    <string name="cancel">Cancel</string>
+    <string name="pre_disable_notification_title">Bluetooth device disconnected</string>
+    <string name="pre_disable_notification_body">Greentooth will soon disable Bluetooth</string>
+    <plurals name="minutes_delay">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+    <plurals name="seconds_delay">
+        <item quantity="one">%d second</item>
+        <item quantity="other">%d seconds</item>
+    </plurals>
+    <string name="greentooth_status">Greentooth Status</string>
+</resources>

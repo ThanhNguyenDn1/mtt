@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_shop.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable\\btn_shop.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_list.xml.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\layout\\fragment_profile_list.xml"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back_white.xml.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable\\ic_back_white.xml"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_close.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_profile.xml.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\layout\\activity_add_profile.xml"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iconapp.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable\\iconapp.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_history.xml.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_close.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable-hdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_close.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_close.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_add.xml.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable-anydpi\\ic_add.xml"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_history_list.xml.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\layout\\fragment_history_list.xml"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_close.xml.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable-anydpi\\ic_close.xml"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_delete.xml.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable-anydpi\\ic_delete.xml"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_shop.xml.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\layout\\activity_shop.xml"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_quick_knock.xml.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\layout\\fragment_quick_knock.xml"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Lutech\\New folder\\16_09_2021\\Port Knocker\\portknocker-android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

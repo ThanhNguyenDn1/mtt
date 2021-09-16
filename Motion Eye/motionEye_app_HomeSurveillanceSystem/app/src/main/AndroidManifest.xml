@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.jairaj.janglegmail.motioneye">
+
+    <application
+        android:allowBackup="true"
+        android:banner="@drawable/motion_eye_banner"
+        android:icon="@drawable/iconapp"
+        android:label="Motion Eye"
+        android:roundIcon="@drawable/iconapp"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar"
+        android:usesCleartextTraffic="true">
+
+        <activity
+            android:name=".activities.LegalDocShowActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.HelpFAQActivity"
+            android:label="Help and FAQ"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.MainActivity"
+            android:label="Camera List"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".ShopActivity"></activity>
+
+        <activity
+            android:name=".activities.AddDeviceDetailsActivity"
+            android:label="Add Device"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activities.LoadingScreenActivity"
+            android:label="Motion Eye">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.LoadingScreenTvActivity"
+            android:label="Motion Eye">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.WebMotionEyeActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_web_motion_eye"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".activities.AboutActivity"
+            android:label="About"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activities.SettingsActivity"
+            android:label="Settings"
+            android:theme="@style/PreferenceScreen" />
+    </application>
+
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false"
+        tools:ignore="ManifestOrder" />
+
+    <uses-feature
+        android:name="android.software.leanback"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+</manifest>

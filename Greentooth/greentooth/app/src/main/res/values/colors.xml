@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#03A9F4</color>
+    <color name="colorOnSurface">#000000</color>
+    <color name="primaryColorVariant">#03A9F4</color>
+    <color name="onPrimaryColor">#FFFFFF</color>
+    <color name="colorSecondary">#6BC5ED</color>
+    <color name="switchDisabled">#646464</color>
+    <color name="switchTextColor">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="secondaryColorVariant">#74C9EF</color>
+    <color name="onSecondaryColor">#000000</color>
+    <color name="primaryDarkColor">#1A729A</color>
+    <color name="onPrimarySurfaceColor">#FFFFFF</color>
+    <color name="switchThumbDisabledColor">#ffd6d7d7</color>
+</resources>

@@ -1,0 +1,46 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jairaj.janglegmail.motioneye.activities.MainActivity">
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_help"
+        android:orderInCategory="100"
+        android:title="@string/help_and_faq"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="@string/action_about"
+        app:showAsAction="never" />
+    <item
+        android:onClick="sub"
+        android:id="@+id/sub"
+        android:orderInCategory="100"
+        android:title="Premium"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/delete"
+        app:showAsAction="ifRoom"
+        android:title=""
+        android:visible="false"
+        android:icon="@drawable/delete_ic" />
+
+    <item
+        android:id="@+id/edit"
+        app:showAsAction="ifRoom"
+        android:title=""
+        android:visible="false"
+        android:icon="@drawable/edit_ic" />
+
+
+
+</menu>
